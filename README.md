@@ -21,6 +21,9 @@ For Vagrant installation along with VirtualBox
 * Vagrant Download and Installation Website: [https://www.vagrantup.com/downloads.html](https://www.vagrantup.com/downloads.html)
 * Download Virtual Box [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
 
+NEW EDITING from here Below:
+**************************************************
+**************************************************
 Once you download both vagrant and Virtual Box, please edit the Vagrantfile.
 * [![Gitter chat](https://badges.gitter.im/mitchellh/vagrant.png)](https://gitter.im/mitchellh/vagrant)
 * Mailing list: [Google Groups](https://groups.google.com/group/vagrant-up)
