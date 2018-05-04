@@ -201,6 +201,6 @@ vagrant@dhakal:~$ 
 
 ------------------------------------------------------------------------
 
-NOTE: If you want to pursue further with Ansible installation, please refer to https://github.com/dhakalanis/ansible or (directly to https://github.com/dhakalanis/ansible/blob/master/README.md)
+NOTE: If you want to pursue further with Ansible installation, please refer to https://github.com/dhakalanis/ansible or (directly to https://github.com/dhakalanis/ansible/blob/master/readme.md)
 
 ------------------------------------------------------------------------
