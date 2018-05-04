@@ -199,6 +199,8 @@ Linux dhakal 3.13.0-145-generic #194-Ubuntu SMP Thu Apr 5 15:20:44 UTC 2018 x86_
 vagrant@dhakal:~$ 
 ```
 
+------------------------------------------------------------------------
+
+NOTE: If you want to pursue further with Ansible installation, please refer to https://github.com/dhakalanis/ansible or (directly to https://github.com/dhakalanis/ansible/blob/master/README.md)
 
 ------------------------------------------------------------------------
-If you want to pursue further with Ansible installation, please refer to https://github.com/dhakalanis/ansible or (directly to https://github.com/dhakalanis/ansible/blob/master/README.md)
